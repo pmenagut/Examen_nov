@@ -1,4 +1,5 @@
 # Examen_nov
+Paula Mena Gutiérrez. Link del repositorio de github: https://github.com/pmenagut/Mena_Paula
 1. Un "Pull Request" es para enviar los cambios realizados a otra persona sin perder lo que tenía anteriormente, en el que esa persona aceptará o no dicho Pull Request para fusionarlo.
 2. Un conflicto de fusión es cuando en el archivo se han hecho varios cambios en una misma línea. Este conflicto lo resolvería eliminando uno de los dos cambios.
 3. Para fusionar las dos ramas me situaría en la rama "examen_parcial" con "git checkout examen_parcial" si no estuviese en dicha rama, finalmente para fusionarlo usaría "git merge".
