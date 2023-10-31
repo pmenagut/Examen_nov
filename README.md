@@ -17,5 +17,4 @@ Paula Mena Gutiérrez. Link del repositorio de github: https://github.com/pmenag
    8: d. git merge
    9: a. git reset --hard
    10: c. git log
-
 9. Opción C: Añadiste el botón "x^4" al archivo "index.html" en tu repositorio local, creaste un commit con los cambios y luego subiste el repositorio local al remoto en la rama principal (master).
